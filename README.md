@@ -7,7 +7,7 @@ Interest in development, artificial intelligence and machine learning |
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jgarciaji)
 
 ## ABOUT ME:
-<img align= "right" src = "[https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b7611kz1o4fvhp9h1i95yj5z2zc164s1tpmwcuy6qb74m&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://media.giphy.com/media/jPcVwQH98cgSaOXMNb/giphy.gif?cid=790b76118a9gu2oohwwa9ztsrs2xmozp1qmuufy19ik46cf0&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width = "145" >
+<img align= "right" src = "https://media.giphy.com/media/jPcVwQH98cgSaOXMNb/giphy.gif?cid=790b76118a9gu2oohwwa9ztsrs2xmozp1qmuufy19ik46cf0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "145" >
 
 
 
