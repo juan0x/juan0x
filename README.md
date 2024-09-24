@@ -1,16 +1,28 @@
-## Hi there 👋
+![Banner presentación](github-header-image.png)
 
-<!--
-**juan0x/juan0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student 💻|
+Interest in development, artificial intelligence and machine learning |
+*
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgarciaji)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jgarciaji)
 
-Here are some ideas to get you started:
+## ABOUT ME:
+<img align= "right" src = "https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b7611kz1o4fvhp9h1i95yj5z2zc164s1tpmwcuy6qb74m&ep=v1_gifs_search&rid=giphy.webp&ct=g" width = "145" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<iframe src="https://giphy.com/embed/1tuooPJnx3kKqBmNEW" width="480" height="278" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/news-ai-artificial-intelligence-chuck-schumer-1tuooPJnx3kKqBmNEW">via GIPHY</a></p>
+
+- 🌱 I am learning data analysis and visualization techniques.
+- 🔭 I am implementing mathematical models of *Machine Learning* in python.
+- 🤔 Develop new projects with the aim of learning new models.
+- 📫 Contact: jugarciaji@unal.edu.co
+
+## Some Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+![juan0x's Github stats](https://github-readme-stats.vercel.app/appi?username=juan0x&show_icons=true&theme=transparent)
