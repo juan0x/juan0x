@@ -7,7 +7,7 @@ Interest in development, artificial intelligence and machine learning |
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jgarciaji)
 
 ## ABOUT ME:
-<img align= "right" src = "https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b7611kz1o4fvhp9h1i95yj5z2zc164s1tpmwcuy6qb74m&ep=v1_gifs_search&rid=giphy.webp&ct=g" width = "145" >
+<img align= "right" src = "https://giphy.com/gifs/news-ai-artificial-intelligence-chuck-schumer-1tuooPJnx3kKqBmNEW" width = "145" >
 
 <iframe src="https://giphy.com/embed/1tuooPJnx3kKqBmNEW" width="480" height="278" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/news-ai-artificial-intelligence-chuck-schumer-1tuooPJnx3kKqBmNEW">via GIPHY</a></p>
 
